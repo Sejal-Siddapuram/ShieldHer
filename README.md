@@ -224,4 +224,4 @@ MIT License — built for social good. Feel free to build on this.
 
 ---
 
-> *"Innovating for Women, Empowering Through Technology"* — Hackfinity, ACM-W PES University
+
